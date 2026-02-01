@@ -97,4 +97,14 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
 3. **Consulter le rapport d’analyse** :
    - Le fichier `Rapport_analyse.pdf` résume les insights clés, les recommandations et les limites de l’étude.
 
-**Ce PowerBi est complet, et comporte de nombreuses autres possibilités d'analyse qui n'ont pas encore été exploitées, par exemple les données des acteurs.**
+## Opportunités d’analyse futures
+Ce projet offre de nombreuses pistes d’analyse supplémentaires, notamment :
+- **Analyse des acteurs (HP)** : Explorer le rôle des différents acteurs de santé (hôpitaux, médecins, services auxiliaires) dans la répartition des dépenses.
+- **Comparaison temporelle** : Étudier l’évolution des dépenses sur plusieurs années pour identifier des tendances ou des changements structurels.
+- **Analyse géographique** : Intégrer des données régionales pour identifier des disparités territoriales dans le financement des soins.
+- **Optimisation des coûts** : Identifier des leviers pour réduire le reste à charge des ménages, notamment pour les soins de longue durée et les biens médicaux.
+
+Ces analyses pourraient être développées dans une **version future** du projet.
+
+## Licence
+Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). N’hésitez pas à l’utiliser et à le modifier selon vos besoins.
