@@ -3,16 +3,16 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
 
 ## Compétences
 
-### 🏥 Santé & Analyse métier
+###       🏥 Santé & Analyse métier
 Analyse du financement des dépenses de santé françaises à partir des données CNS (SHA), avec un focus sur le rôle de l’Assurance Maladie.
 
-### 🛠️ Data Processing
+###       🛠️ Data Processing
 Traitement, nettoyage et structuration des données avec Python (pandas), préparation des données pour la BI.
 
-### 📊 Business Intelligence
+###       📊 Business Intelligence
 Conception d’un tableau de bord Power BI avec KPI clairs : prise en charge, reste à charge, financeurs.
 
-### 🎯 Data Storytelling
+###       🎯 Data Storytelling
 Lecture analytique et synthèse des résultats pour une aide à la décision claire et pédagogique.
 
 
