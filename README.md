@@ -1,27 +1,25 @@
-# Analyse du rôle de l’Assurance Maladie dans les dépenses de santé en France
+# 🏥 Analyse du rôle de l’Assurance Maladie dans les dépenses de santé en France
 Ce projet présente une analyse des dépenses de santé en France, en se basant sur les données de la CNS (Comptes Nationaux de la Santé). L’objectif est de visualiser et d’analyser le rôle central de l’Assurance Maladie dans le financement du système de santé français
 
-## Compétences
+## 🛠️ Compétences mobilisées
 
-- **🏥 Santé & Analyse métier**
+- **Santé & Analyse métier**
 Décryptage du financement du système de santé français à partir de données institutionnelles (CNS – SHA), avec une approche orientée décision mettant en évidence le rôle stratégique de l’Assurance Maladie et les enjeux de reste à charge des ménages.
 
-- **🛠️ Data Processing**
+- **Data Processing**
 Traitement, nettoyage et structuration des données avec Python (pandas), préparation des données pour la BI.
 
-- **📊 Business Intelligence**
+- **Business Intelligence**
 Conception d’un tableau de bord Power BI avec KPI clairs : prise en charge, reste à charge, financeurs.
 
-- **🎯 Data Storytelling**
+- **Data Storytelling**
 Lecture analytique et synthèse des résultats pour une aide à la décision claire et pédagogique.
 
-## Technologies et outils
+## 🧩 Technologies et outils
 - **Langages** : Python (pandas)
 - **Outils de BI** : Power BI (DAX, Power Query)
 - **Sources de données** : data.gouv.fr (CNS-SHA)
 - **Versioning** : GitHub
-
-
 
 ## 📊 Données utilisées
 - **Source** : data.gouv.fr – Comptabilité Nationale de la Santé (SHA) -- https://www.data.gouv.fr/datasets/les-comptes-de-la-sante-systeme-international-des-comptes-de-la-sante
@@ -33,7 +31,7 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
   - Années disponibles dans le jeu de données (2021 à 2024)
    *Les acronymes et la classification des données viennent des trois axes de la SHA 2011 développée par l'OCDE, Eurostat et l'OMS.
 
-## Objectifs du projet
+## 🎯 Objectifs du projet
 - **Analyser** le rôle de l’Assurance Maladie dans le financement des dépenses de santé en France.
 - **Visualiser** les disparités de prise en charge selon les types de soins et les acteurs.
 - **Identifier** les enjeux liés au reste à charge des ménages.
@@ -46,8 +44,7 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
 ![Main Preview](img/pbi_synthese.png)
 
 
-
-## Structure du projet 
+## 🧱 Structure du projet 
 
 ```
 📁 Analyse_depenses_sante_France_focus_Assurance_Maladie/
@@ -85,7 +82,8 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
 └── 📄 LICENSE
 ```
 
-## Comment utiliser ce projet ?
+
+## 🚀 Comment utiliser ce projet ?
 1. **Explorer le tableau de bord Power BI** :
    - Ouvrir le fichier `Analyse_depenses_sante_role_assurance_maladie.pbix` avec **Power BI Desktop**.
    - Utiliser les filtres pour analyser les dépenses par année, type de soins (HC), ou financeur (HF).
@@ -97,7 +95,7 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
 3. **Consulter le rapport d’analyse** :
    - Le fichier `Rapport_analyse.pdf` résume les insights clés, les recommandations et les limites de l’étude.
 
-## Opportunités d’analyse futures
+## 🔮 Opportunités d’analyse futures
 Ce projet offre de nombreuses pistes d’analyse supplémentaires, notamment :
 - **Analyse des acteurs (HP)** : Explorer le rôle des différents acteurs de santé (hôpitaux, médecins, services auxiliaires) dans la répartition des dépenses.
 - **Comparaison temporelle** : Étudier l’évolution des dépenses sur plusieurs années pour identifier des tendances ou des changements structurels.
@@ -106,5 +104,5 @@ Ce projet offre de nombreuses pistes d’analyse supplémentaires, notamment :
 
 Ces analyses pourraient être développées dans une **version future** du projet.
 
-## Licence
+## 📄 Licence
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). N’hésitez pas à l’utiliser et à le modifier selon vos besoins.
