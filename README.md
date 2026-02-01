@@ -2,6 +2,8 @@
 Ce projet présente une analyse des dépenses de santé en France, en se basant sur les données de la CNS (Comptes Nationaux de la Santé). L’objectif est de visualiser et d’analyser le rôle central de l’Assurance Maladie dans le financement du système de santé français
 
 ![Main Preview](img/pbi_exploration.png)
+
+
 ![Main Preview](img/pbi_synthese.png)
 
 ## 📊 Données utilisées
