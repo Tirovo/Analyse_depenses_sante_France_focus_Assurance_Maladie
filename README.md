@@ -1,10 +1,20 @@
 # Analyse du rôle de l’Assurance Maladie dans les dépenses de santé en France
 Ce projet présente une analyse des dépenses de santé en France, en se basant sur les données de la CNS (Comptes Nationaux de la Santé). L’objectif est de visualiser et d’analyser le rôle central de l’Assurance Maladie dans le financement du système de santé français
 
-![Main Preview](img/pbi_exploration.png)
+## Compétences
 
+### 🏥 Santé & Analyse métier
+Analyse du financement des dépenses de santé françaises à partir des données CNS (SHA), avec un focus sur le rôle de l’Assurance Maladie.
 
-![Main Preview](img/pbi_synthese.png)
+### 🛠️ Data Processing
+Traitement, nettoyage et structuration des données avec Python (pandas), préparation des données pour la BI.
+
+### 📊 Business Intelligence
+Conception d’un tableau de bord Power BI avec KPI clairs : prise en charge, reste à charge, financeurs.
+
+### 🎯 Data Storytelling
+Lecture analytique et synthèse des résultats pour une aide à la décision claire et pédagogique.
+
 
 ## 📊 Données utilisées
 - **Source** : data.gouv.fr – Comptabilité Nationale de la Santé (SHA) -- https://www.data.gouv.fr/datasets/les-comptes-de-la-sante-systeme-international-des-comptes-de-la-sante
@@ -15,6 +25,14 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
   - Fonctions de soins (HC : Health care functions)
   - Années disponibles dans le jeu de données (2021 à 2024)
    *Les acronymes et la classification des données viennent des trois axes de la SHA 2011 développée par l'OCDE, Eurostat et l'OMS.
+
+
+![Main Preview](img/pbi_exploration.png)
+
+
+![Main Preview](img/pbi_synthese.png)
+
+
 
 ## Structure du projet 
 
