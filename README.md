@@ -3,7 +3,7 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
 
 ## Compétences
 
-###       **🏥 Santé & Analyse métier**
+###       🏥 **Santé & Analyse métier**
 Décryptage du financement du système de santé français à partir de données institutionnelles (CNS – SHA), avec une approche orientée décision mettant en évidence le rôle stratégique de l’Assurance Maladie et les enjeux de reste à charge des ménages.
 
 ###       🛠️ Data Processing
