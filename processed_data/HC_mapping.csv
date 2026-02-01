@@ -1,0 +1,31 @@
+HC;HC_L1;HC_L2;HC_L3;HC_level
+HC_11;Soins curatifs;Soins curatifs hospitaliers;;2
+HC_12;Soins curatifs;Soins curatifs de jour;;2
+HC_131;Soins curatifs;Soins curatifs ambulatoires;Soins curatifs ambulatoires generaux;3
+HC_132;Soins curatifs;Soins curatifs ambulatoires;Soins dentaires ambulatoires;3
+HC_133;Soins curatifs;Soins curatifs ambulatoires;Soins curatifs ambulatoires specialises;3
+HC_14;Soins curatifs;Soins curatifs a domicile;;2
+HC_21;Soins de readaptation;Soins de readaptation hospitaliers;;2
+HC_22;Soins de readaptation;Soins de readaptation de jour;;2
+HC_23;Soins de readaptation;Soins de readaptation ambulatoires;;2
+HC_24;Soins de readaptation;Soins de readaptation a domicile;;2
+HC_31;Soins de longue duree;Soins de longue duree hospitaliers;;2
+HC_32;Soins de longue duree;Soins de longue duree de jour;;2
+HC_33;Soins de longue duree;Soins de longue duree ambulatoires;;2
+HC_34;Soins de longue duree;Soins de longue duree a domicile;;2
+HC_41;Services auxiliaires;Services de laboratoire;;2
+HC_42;Services auxiliaires;Services d imagerie;;2
+HC_43;Services auxiliaires;Transport de patients;;2
+HC_511;Biens medicaux;Produits pharmaceutiques et autres biens medicaux non durables;Medicaments prescrits;3
+HC_512;Biens medicaux;Produits pharmaceutiques et autres biens medicaux non durables;Medicaments en vente libre;3
+HC_513;Biens medicaux;Produits pharmaceutiques et autres biens medicaux non durables;Autres biens medicaux non durables;3
+HC_52;Biens medicaux;Appareils therapeutiques et autres biens medicaux;;2
+HC_61;Soins preventifs;Programmes d information d education et de conseil;;2
+HC_62;Soins preventifs;Programmes de vaccination;;2
+HC_63;Soins preventifs;Programmes de depistage precoce des maladies;;2
+HC_64;Soins preventifs;Programmes de surveillance de l etat de sante;;2
+HC_65;Soins preventifs;Surveillance epidemiologique et controle des risques sanitaires;;2
+HC_66;Soins preventifs;Preparation aux situations d urgence et catastrophes;;2
+HC_71;Administration;Gouvernance et administration du systeme de sante;;2
+HC_72;Administration;Administration du financement de la sante;;2
+TOTAL;TOTAL;;;0

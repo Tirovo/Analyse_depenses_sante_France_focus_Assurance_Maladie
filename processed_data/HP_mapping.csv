@@ -1,0 +1,23 @@
+HP;HP_L1;HP_L2;HP_L3;HP_level
+HP_11;Hopitaux;Hopitaux generaux;;2
+HP_12;Hopitaux;Hopitaux de sante mentale;;2
+HP_13;Hopitaux;Hopitaux specialises (hors sante mentale);;2
+HP_21;Etablissements de soins de longue duree;Etablissements de soins infirmiers de longue duree;;2
+HP_22;Etablissements de soins de longue duree;Etablissements de sante mentale et de traitement des dependances;;2
+HP_31;Prestataires de soins ambulatoires;Cabinets medicaux;;2
+HP_32;Prestataires de soins ambulatoires;Cabinets dentaires;;2
+HP_33;Prestataires de soins ambulatoires;Autres professionnels de sante;;2
+HP_34;Prestataires de soins ambulatoires;Centres de soins ambulatoires;;2
+HP_35;Prestataires de soins ambulatoires;Prestataires de soins a domicile;;2
+HP_41;Prestataires de services auxiliaires;Transport de patients et secours d urgence;;2
+HP_42;Prestataires de services auxiliaires;Laboratoires medicaux et diagnostiques;;2
+HP_51;Fournisseurs de biens medicaux;Pharmacies;;2
+HP_52;Fournisseurs de biens medicaux;Commercants de biens medicaux durables et dispositifs medicaux;;2
+HP_59;Fournisseurs de biens medicaux;Autres fournisseurs de biens medicaux;;2
+HP_6;Prestataires de soins preventifs;;;1
+HP_71;Administration et financement du systeme de sante;Agences publiques d administration sanitaire;;2
+HP_72;Administration et financement du systeme de sante;Organismes d assurance maladie obligatoire;;2
+HP_73;Administration et financement du systeme de sante;Organismes d assurance maladie privee;;2
+HP_81;Reste de l economie;Menages prestataires de soins a domicile;;2
+HP_82;Reste de l economie;Autres secteurs economiques prestataires secondaires de soins;;2
+TOTAL;TOTAL;;;0

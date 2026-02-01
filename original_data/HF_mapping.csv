@@ -1,0 +1,15 @@
+HF;HF_L1;HF_L2;HF_L3;HF_level
+HF_1;Regimes publics et obligatoires;;;1
+HF_11;Regimes publics et obligatoires;Regimes publics (Etat et collectivites);;2
+HF_12;Regimes publics et obligatoires;Assurance maladie obligatoire contributive;;2
+HF_121;Regimes publics et obligatoires;Assurance maladie obligatoire contributive;Prestations en nature;3
+HF_122;Regimes publics et obligatoires;Assurance maladie obligatoire contributive;Prestations en especes;3
+HF_2;Regimes volontaires;;;1
+HF_21;Regimes volontaires;Assurance maladie volontaire;;2
+HF_22;Regimes volontaires;Autres regimes volontaires;;2
+HF_23;Regimes volontaires;Autres regimes volontaires (Residuel);;2
+HF_3;Paiements directs des menages;;;1
+HF_31;Paiements directs des menages;Tickets moderateurs;;2
+HF_32;Paiements directs des menages;Autres paiements;;2
+HF_4;Reste du monde;;;1
+TOTAL;TOTAL;;;0
