@@ -3,17 +3,24 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
 
 ## Compétences
 
-###       🏥 **Santé & Analyse métier**
+**🏥 Santé & Analyse métier**
 Décryptage du financement du système de santé français à partir de données institutionnelles (CNS – SHA), avec une approche orientée décision mettant en évidence le rôle stratégique de l’Assurance Maladie et les enjeux de reste à charge des ménages.
 
-###       🛠️ Data Processing
+- **🛠️ Data Processing**
 Traitement, nettoyage et structuration des données avec Python (pandas), préparation des données pour la BI.
 
-###       📊 Business Intelligence
+- **📊 Business Intelligence**
 Conception d’un tableau de bord Power BI avec KPI clairs : prise en charge, reste à charge, financeurs.
 
-###       🎯 Data Storytelling
+- **🎯 Data Storytelling**
 Lecture analytique et synthèse des résultats pour une aide à la décision claire et pédagogique.
+
+## Technologies et outils
+- **Langages** : Python (pandas)
+- **Outils de BI** : Power BI (DAX, Power Query)
+- **Sources de données** : data.gouv.fr (CNS-SHA)
+- **Versioning** : GitHub
+
 
 
 ## 📊 Données utilisées
@@ -25,6 +32,12 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
   - Fonctions de soins (HC : Health care functions)
   - Années disponibles dans le jeu de données (2021 à 2024)
    *Les acronymes et la classification des données viennent des trois axes de la SHA 2011 développée par l'OCDE, Eurostat et l'OMS.
+
+## Objectifs du projet
+- **Analyser** le rôle de l’Assurance Maladie dans le financement des dépenses de santé en France.
+- **Visualiser** les disparités de prise en charge selon les types de soins et les acteurs.
+- **Identifier** les enjeux liés au reste à charge des ménages.
+- **Proposer** des pistes d’amélioration pour une couverture plus équitable.
 
 
 ![Main Preview](img/pbi_exploration.png)
@@ -71,3 +84,17 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
 │
 └── 📄 LICENSE
 ```
+
+## Comment utiliser ce projet ?
+1. **Explorer le tableau de bord Power BI** :
+   - Ouvrir le fichier `Analyse_depenses_sante_role_assurance_maladie.pbix` avec **Power BI Desktop**.
+   - Utiliser les filtres pour analyser les dépenses par année, type de soins (HC), ou financeur (HF).
+
+2. **Reproduire l’analyse** :
+   - Les données traitées sont disponibles dans le dossier `Processed_data/`.
+   - Le notebook `Data_Processing.ipynb` détaille les étapes de nettoyage et de transformation des données.
+
+3. **Consulter le rapport d’analyse** :
+   - Le fichier `Rapport_analyse.pdf` résume les insights clés, les recommandations et les limites de l’étude.
+
+**Ce PowerBi est complet, et comporte de nombreuses autres possibilités d'analyse qui n'ont pas encore été exploitées, par exemple les données des acteurs.**
