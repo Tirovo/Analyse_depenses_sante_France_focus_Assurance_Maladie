@@ -4,7 +4,7 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
 ## Compétences
 
 ###       🏥 Santé & Analyse métier
-Analyse du financement des dépenses de santé françaises à partir des données CNS (SHA), avec un focus sur le rôle de l’Assurance Maladie.
+Décryptage du financement du système de santé français à partir de données institutionnelles (CNS – SHA), avec une approche orientée décision mettant en évidence le rôle stratégique de l’Assurance Maladie et les enjeux de reste à charge des ménages.
 
 ###       🛠️ Data Processing
 Traitement, nettoyage et structuration des données avec Python (pandas), préparation des données pour la BI.
