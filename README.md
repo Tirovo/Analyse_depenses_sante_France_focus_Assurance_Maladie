@@ -18,7 +18,7 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
 
 ## Structure du projet 
 
-'''
+```
 📁 Analyse_depenses_sante_France_focus_Assurance_Maladie/
 │
 ├── 📄 README.md                  # Description du projet, objectifs, compétences, et instructions d’utilisation.
@@ -52,4 +52,4 @@ Ce projet présente une analyse des dépenses de santé en France, en se basant 
 │   └── 📄 pbi_synthese.png         #   - Deuxième page du PowerBi.
 │
 └── 📄 LICENSE
-'''
+```
