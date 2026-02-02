@@ -29,7 +29,7 @@ Lecture analytique et synthèse des résultats pour une aide à la décision cla
   - Financeurs des soins (HF : Health care financing schemes)
   - Fonctions de soins (HC : Health care functions)
   - Années disponibles dans le jeu de données (2021 à 2024)
-   *Les acronymes et la classification des données viennent des trois axes de la SHA 2011 développée par l'OCDE, Eurostat et l'OMS.
+  -*Les acronymes et la classification des données viennent des trois axes de la SHA 2011 développée par l'OCDE, Eurostat et l'OMS.
 
 ## 🎯 Objectifs du projet
 - **Analyser** le rôle de l’Assurance Maladie dans le financement des dépenses de santé en France.
